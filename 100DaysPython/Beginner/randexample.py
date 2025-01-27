@@ -1,0 +1,10 @@
+fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+ 
+dirty_dozen = [fruits, vegetables]
+ 
+print(dirty_dozen[1][2])
+
+disc = 348 * 0.25
+mem = 348 - disc
+print(mem)
